@@ -94,6 +94,7 @@ def rubixcube():
 	right(90)
 	write("Rubix-cube 2D")
 	
+	
 rubixcube()
 input()
 
